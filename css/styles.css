@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css?family=Pathway+Gothic+One");
+@font-face{
+    font-family: "ArialRegular";
+    src: url("../fonts/ArialRegular.eot") format("eot");
+    src: url("../fonts/ArialRegular.ttf") format("ttf");    
+    src: url("../fonts/WebFont.woff") format("woff");
+}
+
+body {
+    background-color: #000000;
+    margin: 0;
+}
+
+.wrapper {
+    background-color: #fff;
+    width: 480px;
+    margin: auto; 
+}
+
+.infoBlocks {
+    width: 406px;
+    margin-left: 36px;
+    padding-top: 63px; 
+}
+img {
+    display: block;
+}
+h1 {
+    margin-top: 0;
+    margin-bottom: 25px;
+    font-family: "Pathway Gothic One", sans-serif;
+    font-size: 25px;
+    color: #263555;
+}
+h6 {
+    font-family: "ArialRegular", sans-serif;
+    font-size: 14px;
+    color: #263555;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p {
+    margin-bottom: 0;
+    font-family: "ArialRegular", sans-serif;
+    font-size: 12px;
+    color: #4e5050;
+}
+li {
+    list-style-type: none;
+    font-family: "ArialRegular", sans-serif;
+    font-size: 14px;
+    color: #263555;
+}
+ul {
+    padding-left: 0;
+}
+
+.principlesCont {
+    margin-left: 35px;
+}
+.offerListLeftSide {
+    display: inline-block;
+    width: 160px;
+    margin-top: 0;
+    margin-left: 60px;
+}
+.offerListRightSide {
+    display: inline-block;
+    width: 240px;
+    margin-top: 0;
+    float: right;
+}
