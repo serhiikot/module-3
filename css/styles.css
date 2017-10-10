@@ -14,12 +14,12 @@ body {
 .wrapper {
     background-color: #fff;
     width: 480px;
-    margin: auto; 
+    margin: auto;
+    padding: 0 37px 0 37px; 
 }
 
 .infoBlocks {
-    width: 406px;
-    margin-left: 36px;
+    margin: auto;
     padding-top: 63px; 
 }
 img {
